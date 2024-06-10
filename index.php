@@ -8,7 +8,7 @@
 <body>
 <body>
 	
-<img src="images/logo.png"alt="onboarding1" style="text-align: center; margin-top: 50%;margin-left: 5%; width: 450px; height: 450px;">
+<img src="images/logo.png"alt="onboarding1" style="text-align: center; margin-top: 45%;margin-left: 5%; width: 350px; height: 350px;">
 
 </body>
 </html>
@@ -28,7 +28,7 @@
 		background-color: #6AEFFE;
 		margin-right: 50%;	
 	}
-	@media only screen and (max-width: 600px) {
+	@media only screen and (max-width: 550px) {
     body{
 		align-items: center;
 		background-color: #6AEFFE;
@@ -45,10 +45,11 @@
 	}
 	nav{
 		background: #FFFFFF;
-		padding-bottom: 45px;
+		padding-bottom: 25px;
 		text-align: center;
 /*		display: inline-block;*/
 	}
+}
 
 
 

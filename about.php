@@ -13,7 +13,7 @@
 <body>
 <!-- start of about_body -->
   <u><h4 id="text_about">Brief About High Health </h4></u>
-<p id="p_texts">Astable and growing health platform,will continue to remain the society's focus.A person of any age will be able to get access to the health facilities offered by this app and also benefit from it  and interact with experienced health status to embrace the health wellness of the society.High Health Application is here to offer solutions on health issues at the society's palm hands irrespective of their location.Looking forward to touch lifes and bring up a society with good health situations as we offer the well-being for all at all ages. </p>	
+<p id="p_texts">A stable and growing health platform,will continue to remain the society's focus.A person of any age will be able to get access to the health facilities offered by this app and also benefit from it  and interact with experienced health status to embrace the health wellness of the society.High Health Application is here to offer solutions on health issues at the society's palm hands irrespective of their location.Looking forward to touch lifes and bring up a society with good health situations as we offer the well-being for all at all ages. </p>	
   	<u><h4 id="text_about"> High Health App</h4></u>
  <p id="p_texts">This is an app that focuses on the health of an individual in the society to cope up with their health problems, and realise their health status well.We want to work towards creating health literacy as it targets any one who has an access to technology through their smartphones.We believe that it will help people to interact with the solutions without any form of judgement,fear or dout to words our services. </p>
    <u><h4 id="text_about">What We Offer</h4></u>

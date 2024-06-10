@@ -6,6 +6,7 @@ if ($_GET['msg'] =='empty' ) {
 }elseif ($_GET['msg'] =='failed') {
 	$msg = "Something went wrong!";
 }
+
  ?>
 <!DOCTYPE html>
 <html>
@@ -28,7 +29,7 @@ if ($_GET['msg'] =='empty' ) {
 	<input type="password" name="pass" id="userFormInput"placeholder=" Enter Your password" required>
 </div>
 	<h5 style=" font-family: poppins;">Forgot password?</h5>
-	<a href="home1.php">
+	<a href="dashboard.php">
 		<input type="submit" name="signin" value="Sign In" class="submitBtn">
 
 </a>
@@ -39,12 +40,12 @@ if ($_GET['msg'] =='empty' ) {
 <br>
 <img src="images/line.png">
 <br>
-<a href="home2.php">
+<a href="dashboard.php">
 <img src="images/google.png"
 alt="home2">
 </a>
 <br>
-  <a href="home2.php">
+  <a href="dashboard.php">
 <img src="images/facebook.png" alt="home2"></a>
 </div>
 </form>	

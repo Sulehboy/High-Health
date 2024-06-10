@@ -1,4 +1,5 @@
 <?php 
+error_reporting(0);
 session_start();
 if (isset($_SESSION['username'])); {
   $loggedinusername = $_SESSION['username'];
@@ -33,7 +34,7 @@ if (isset($_SESSION['username'])); {
       <img src="images/icon1.png" style="width:90px;" alt="ambulance.php">
     </a>
       <h2 style="margin-right: 35%;">Health articles</h2>
-      <img src="images/fruits.png" style="margin-left:5%;">
+      <img src="images/fruits.png" ma>
        <img src="images/firstaid.png" style="margin-left: 5%;">
        <br> 
       <img src="images/article (3).png" style="margin-left:5%;" >
